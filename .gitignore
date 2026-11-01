@@ -1,0 +1,17 @@
+# Large / generated data (do not commit)
+*.csv
+*.xls
+*.xlsx
+data/*
+!data/README.md
+
+# Notebook / editor noise
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# Power BI temp files
+*.pbi*
+~$*
